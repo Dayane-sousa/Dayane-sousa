@@ -1,12 +1,13 @@
-# Hello! Welcome to my GitHub profile
+# Hello! Welcome to my Github 
 
-Sou entusiasta por tecnologia e animação. No presente momento estou cursando Análise e Desenvolvimento de sistemas pela UNIBTA.
+Sou entusiasta por tecnologia e animação. No presente momento estou estudando as linguagens Python e Javascript mas estou explorando a Cibersegurança e desenvolvimento web e dos Jogos Digitais.
 
 ---
 
 ### 💻 Sobre mim
-- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
-- 📚 Gosto de estudar **Front-end**, **Design de Interfaces**.
+- 🌱 Estou contribuído para desenvolvimento de um jogo 3D junto com grupo de programadores; 
+- 📚 Gosto de estudar **Animação** e **Design de Interfaces**.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas que estou estudado 
@@ -23,10 +24,9 @@ Sou entusiasta por tecnologia e animação. No presente momento estou cursando A
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
-### Projetos 
-- em construção
+### Projetos em construção
+- Visual novel 
 
 ---
 
 ⭐ _“O aprendizado é um processo contínuo — cada linha de código é um passo a mais.”_
-
