@@ -1,6 +1,6 @@
 # Hello! Welcome to my Github 
 
-Sou entusiasta por tecnologia e animação. No presente momento estou estudando as linguagens Python e Javascript mas estou explorando a Cibersegurança e desenvolvimento web e dos Jogos Digitais.
+Sou entusiasta por tecnologia e animação. No presente momento estou estudando as linguagens Python e Javascript mas também estou explorando a Cibersegurança e desenvolvimento web e dos Jogos Digitais.
 
 ---
 
@@ -25,8 +25,8 @@ Sou entusiasta por tecnologia e animação. No presente momento estou estudando 
 
 ---
 ### Projetos em construção
-- Visual novel 
+- jogo de Visual novel — início 21/12/2025 
 
 ---
 
-⭐ _“O aprendizado é um processo contínuo — cada linha de código é um passo a mais.”_
+⭐ _“Sofra hoje e aproveite o amanhã" — High School UP.
