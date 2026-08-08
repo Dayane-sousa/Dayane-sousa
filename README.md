@@ -1,4 +1,4 @@
-### Hello! welcome my profile
+### Hello! welcome 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Unibta. 
 sou entusiasta de tecnologia e animação, atualmente focado no aprendizado das linguagem **Python** e **JavaScript**. Também exploro áreas como **cibersegurança**, **desenvolvimento web** e **criação de jogos**, buscando ampliar minhas habilidades no universo da tecnologia.
@@ -18,5 +18,3 @@ sou entusiasta de tecnologia e animação, atualmente focado no aprendizado das 
 ---
 ### Projetos em construção
 - Jogo de Visual novel — início 21/12/2025 
-
----
