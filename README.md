@@ -15,6 +15,13 @@ sou entusiasta de tecnologia e animação, atualmente focado no aprendizado das 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+### Database
+
+### linguagem
+![python]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 ### Projetos em construção
 - Jogo de Visual novel — início 21/12/2025 
